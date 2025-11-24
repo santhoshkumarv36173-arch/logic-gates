@@ -55,7 +55,7 @@ Create nodes for inputs and outputs to generate the timing diagram.
 For different input combinations generate the timing diagram.
 
 PROGRAM
-
+```
 module logic_gate (
     input  wire a,     // Input A
     input  wire b,     // Input B
@@ -79,7 +79,7 @@ module logic_gate (
 endmodule
 
 
-
+```
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
@@ -92,6 +92,9 @@ RTL realization Output:
 [EXP1.pdf](https://github.com/user-attachments/files/23726240/EXP1.pdf)
 
 
-RTL
+ Wave image
+
+ 
+[EXPERIMENT 1.pdf](https://github.com/user-attachments/files/23726266/EXPERIMENT.1.pdf)
 
 Result: Thus, the truth table of logic gates in Quartus using Verilog programming is studied and verified.
